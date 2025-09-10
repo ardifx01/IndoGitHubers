@@ -1,6 +1,6 @@
 # IndoGitHubers
 
-[![E2E](https://github.com/depapp/IndoGitHubers/actions/workflows/e2e.yml/badge.svg)](https://github.com/depapp/IndoGitHubers/actions/workflows/e2e.yml)
+[![E2E](https://github.com/ardifx01/IndoGitHubers/actions/workflows/e2e.yml/badge.svg)](https://github.com/ardifx01/IndoGitHubers/actions/workflows/e2e.yml)
 
 Live: [www.indogithubers.com](https://www.indogithubers.com/)
 
@@ -15,14 +15,14 @@ The IndoGitHubers app fetches data from the GitHub API and displays it in a user
 
 ## 💡 Features
 
-- **Badge**: You can embed your GitHub rank. [more details](https://github.com/depapp/IndoGitHubers/blob/main/BADGE_USAGE.md)
+- **Badge**: You can embed your GitHub rank. [more details](https://github.com/ardifx01/IndoGitHubers/blob/main/BADGE_USAGE.md)
 - **GitHub Rank**: The app displays the GitHub rank of users in Indonesia. This includes their number of followers and contributions.
 - **Sorting**: Users can sort the list of users by different criteria, such as the number of followers or contributions.
 - **Search**: Users can search for specific users using the search bar.
 
 ## 🖼️ Showcases
 
-Check out the GitHub users who are standing out with the [IndoGitHubers-badge](https://github.com/depapp/IndoGitHubers/blob/main/BADGE_USAGE.md) on their public profiles:
+Check out the GitHub users who are standing out with the [IndoGitHubers-badge](https://github.com/ardifx01/IndoGitHubers/blob/main/BADGE_USAGE.md) on their public profiles:
 
 <details>
 <summary>Click to expand!</summary>
@@ -48,7 +48,7 @@ If you choose to run it locally, follow these steps:
 - Clone the repository
 
 ```bash
-git clone https://github.com/depapp/indogithubers.git
+git clone https://github.com/ardifx01/indogithubers.git
 ```
 
 - Navigate to the project directory
